@@ -1,0 +1,4 @@
+mysql:
+--db:
+----user:root
+----password:root
